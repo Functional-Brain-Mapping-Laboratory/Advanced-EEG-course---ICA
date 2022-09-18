@@ -1,0 +1,6 @@
+notebook
+mne
+python-picard
+matplotlib
+mne-qt-browser
+pybv
