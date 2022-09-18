@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Functional-Brain-Mapping-Laboratory/Advanced-EEG-course---ICA/HEAD?labpath=ICA%20using%20MNE-python.ipynb)# ICA user MNE-Python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Functional-Brain-Mapping-Laboratory/Advanced-EEG-course---ICA/HEAD?labpath=ICA%20using%20MNE-python.ipynb)
+
+# ICA with MNE-Python
 
 
 ## Installation
