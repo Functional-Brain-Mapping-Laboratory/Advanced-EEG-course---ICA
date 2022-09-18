@@ -30,7 +30,7 @@ Anaconda will ask you if you are sure you can to create this new environment
 ```console
 Proceed ([y]/n)?
 ```
-Press <kbd>y</kbd> then <kbd>Enter</kbd> to accept
+Press <kbd>y</kbd> (yes) then <kbd>Enter</kbd> to accept
 
 ### Installing dependencies
 
@@ -42,7 +42,7 @@ conda activate eeg39
 Notice that the current environment is displayed at the beginning of your shell:
 
 ```console
-(eeg39) C:\Users\ferat>
+(eeg39) C:\Users\user_name>
 ```
 
 Install the required python packages:
@@ -70,6 +70,12 @@ To install everything at once:
 
 ```console
 pip install notebook mne python-picard matplotlib mne-qt-browser pybv
+```
+
+or
+
+```console
+pip install -r requirements.txt
 ```
 
 ## Use the code
