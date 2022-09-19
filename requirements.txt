@@ -4,3 +4,6 @@ python-picard
 matplotlib
 mne-qt-browser
 pybv
+PyQt5
+pycartool
+pandas

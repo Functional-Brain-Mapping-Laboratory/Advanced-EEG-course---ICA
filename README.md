@@ -66,10 +66,18 @@ Install the required python packages:
     
     ```pip install pybv```
 
+- `pandas` library to work with dataframes
+
+    ```pip install pandas```
+
+- `pycartool` library to open cartool files.
+
+    ```pip install pycartool```
+
 To install everything at once:
 
 ```console
-pip install notebook mne python-picard matplotlib mne-qt-browser pybv
+pip install notebook mne python-picard matplotlib PyQt5 mne-qt-browser pybv pandas pycartool
 ```
 
 or
